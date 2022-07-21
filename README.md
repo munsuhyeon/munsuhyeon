@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 
 Tech Stack<br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)]
+[![Spring](https://img.shields.io/badge/JavaScript-#6DB33F?style=flat-square&logo=Spring&logoColor=black)]
+[![Spring Boot](https://img.shields.io/badge/JavaScript-#6DB33F?style=flat-square&logo=Spring Boot&logoColor=black)]
+[![HTML5](https://img.shields.io/badge/HTML5-#E34F26?style=flat-square&logo=HTML5&logoColor=black)]
